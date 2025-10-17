@@ -137,7 +137,7 @@ $contactEmail = "info@cashforgold.in";
   <div class="container">
     <!-- Logo -->
     <a class="navbar-brand" href="index.php">
-      <img src="images/cg.png" alt="<?= $companyName ?>">
+      <img src="cg.png" alt="<?= $companyName ?>">
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
@@ -168,3 +168,4 @@ $contactEmail = "info@cashforgold.in";
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
