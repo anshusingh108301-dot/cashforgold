@@ -16,7 +16,7 @@
   <div class="container">
     <div class="row align-items-center g-4">
       <div class="col-lg-6">
-        <img src="images/cash-1.jpg" alt="About Gold Loan" class="img-fluid rounded shadow-sm">
+        <img src="cash-1.jpg" alt="About Gold Loan" class="img-fluid rounded shadow-sm">
       </div>
       <div class="col-lg-6">
         <h2 class="fw-bold mb-3">About Cash for Gold</h2>
@@ -193,3 +193,4 @@ function calculateLoan() {
   .btn-apply:hover { opacity:0.9; }
   input, select { color:#FFD700; }
 </style>
+
